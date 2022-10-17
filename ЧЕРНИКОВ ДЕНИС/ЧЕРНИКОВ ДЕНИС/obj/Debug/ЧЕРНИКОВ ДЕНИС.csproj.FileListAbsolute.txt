@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\bin\Debug\ЧЕРНИКОВ ДЕНИС.exe.config
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\bin\Debug\ЧЕРНИКОВ ДЕНИС.exe
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\bin\Debug\ЧЕРНИКОВ ДЕНИС.pdb
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\obj\Debug\ЧЕРНИКОВ ДЕНИС.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\obj\Debug\ЧЕРНИКОВ ДЕНИС.exe
+C:\Users\student\Desktop\ИС 21 Т2\ЧЕРНИКОВ ДЕНИС\ЧЕРНИКОВ ДЕНИС\obj\Debug\ЧЕРНИКОВ ДЕНИС.pdb
